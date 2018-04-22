@@ -51,13 +51,13 @@ while (a<10){
 
 
 
-
-for ( var b = 0; b<10 ; ++b){
-    if ( b==5){
-        break;
-    }else{console.log(b);}
-    console.log("--")
-}
+//
+//for ( var b = 0; b<10 ; ++b){
+//    if ( b==5){
+//        break;
+//    }else{console.log(b);}
+//    console.log("--")
+//}
 
 //
 //for ( var b = 0; b<10 ; ++b){
